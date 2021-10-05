@@ -1,2 +1,3 @@
 # Hacktober-project
-This is the beginning of the project!
+NOTE: This is the beginning of the project!
+
