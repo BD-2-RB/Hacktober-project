@@ -1,3 +1,8 @@
 # Hacktober-project
 This is the beginning of the project!
-Please respect the rules.
+
+Please read through and try to understand the solution
+
+All the best to everyone paricipating
+
+
