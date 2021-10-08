@@ -9,5 +9,6 @@
     "extends": [
       "react-app",
       "react-app/jest"
+       "eject": "react-scripts eject"
     ]
   }
